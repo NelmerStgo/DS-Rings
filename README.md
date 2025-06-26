@@ -14,21 +14,13 @@ Adéntrate en este viaje, y que las llamas de tu determinación nunca se extinga
 
 ## Screenshots
 
-### Home page
+| Pantalla de inicio | Lista de anillos |
+|--------------------|------------------|
+| <img src="./screenshots/screenshot1.jpg" alt="Home" width="300"/> | <img src="./screenshots/screenshot2.jpg" alt="Lista de anillos" width="300"/> |
 
-<img src="./screenshots/screenshot1.jpg" alt="Home page" width="500"/>
-
-### Lista de anillos
-
-<img src="./screenshots/screenshot2.jpg" alt="Lista de anillos" width="500"/>
-
-### Imagen del anillo a encontrar
-
-<img src="./screenshots/screenshot3.jpg" alt="Imagen del anillo a encontrar" width="500"/>
-
-### Acerca de
-
-<img src="./screenshots/screenshot4.jpg" alt="Acerca de" width="500"/>
+| Anillo a encontrar | Acerca de        |
+|--------------------|------------------|
+| <img src="./screenshots/screenshot3.jpg" alt="Anillo a encontrar" width="300"/> | <img src="./screenshots/screenshot4.jpg" alt="Acerca de" width="300"/> |
 
 ## Installation
 
