@@ -1,4 +1,3 @@
-
 # Dark Seeker
 
 Bienvenido Latente.
@@ -9,20 +8,27 @@ Aquí encontrarás los secretos mejor guardados, aquellos objetos ocultos en las
 
 Adéntrate en este viaje, y que las llamas de tu determinación nunca se extingan.
 
-
-![Logo](./screenshots/icon.png)
-
+<p align="center">
+  <img src="./screenshots/icon.png" alt="Logo" width="120"/>
+</p>
 
 ## Screenshots
 
-![Home page](./screenshots/screenshot1.jpg)
+### Home page
 
-![Lista de anillos](./screenshots/screenshot2.jpg)
+<img src="./screenshots/screenshot1.jpg" alt="Home page" width="500"/>
 
-![imagen del anillo a encontrar](./screenshots/screenshot3.jpg)
+### Lista de anillos
 
-![Acerca de](./screenshots/screenshot4.jpg)
+<img src="./screenshots/screenshot2.jpg" alt="Lista de anillos" width="500"/>
 
+### Imagen del anillo a encontrar
+
+<img src="./screenshots/screenshot3.jpg" alt="Imagen del anillo a encontrar" width="500"/>
+
+### Acerca de
+
+<img src="./screenshots/screenshot4.jpg" alt="Acerca de" width="500"/>
 
 ## Installation
 
@@ -36,37 +42,34 @@ Clona el repositorio:
 
 ```bash
   npm install
-```    
+```
 
 ## Instala las dependencias
 
 ```bash
   npx expo start
-```    
+```
 
 Si en esta parte te marca error, actualiza el Expo CLI:
 
 ```bash
   npm install -g expo-cli
-``` 
+```
 
 ## Tecnologías utilizadas
 
-* React Native
+- React Native
 
-* Expo
+- Expo
 
-* GitHub
+- GitHub
 
-* VS Code
-
+- VS Code
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
 ## Authors
 
 - [@NelmerStgo](https://github.com/NelmerStgo)
-
