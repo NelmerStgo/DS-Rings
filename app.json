@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "DS-Rings-App-v5",
+    "slug": "DS-Rings-App-v5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nelmer.DSRingsAppv5",
+      "newArchEnabled": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.nelmer.DSRingsAppv5",
+      "newArchEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "da3a029e-2434-47d6-82ef-e5d91cdd88f0"
+      }
+    }
+  }
+}
