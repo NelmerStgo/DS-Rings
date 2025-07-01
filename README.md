@@ -58,9 +58,6 @@ Si en esta parte te marca error, actualiza el Expo CLI:
 
 - VS Code
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Authors
 
