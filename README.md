@@ -36,7 +36,7 @@ Clona el repositorio:
   npm install
 ```
 
-## Instala las dependencias
+## Ejecuta el proyecto
 
 ```bash
   npx expo start
