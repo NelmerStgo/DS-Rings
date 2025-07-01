@@ -22,7 +22,7 @@ Adéntrate en este viaje, y que las llamas de tu determinación nunca se extinga
 |--------------------|------------------|
 | <img src="./screenshots/screenshot3.jpg" alt="Anillo a encontrar" width="300"/> | <img src="./screenshots/screenshot4.jpg" alt="Acerca de" width="300"/> |
 
-## Installation
+## Instalación
 
 Clona el repositorio:
 
