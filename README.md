@@ -62,3 +62,4 @@ Si en esta parte te marca error, actualiza el Expo CLI:
 ## Authors
 
 - [@NelmerStgo](https://github.com/NelmerStgo)
+- La aplicación seguirá desarrollandose proximamente, por ahora, es la versión beta, saludos. :D
